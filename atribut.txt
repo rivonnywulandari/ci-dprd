@@ -1,0 +1,28 @@
+Nama Pemohon Informasi
+Nomor KTP (sesuai KTP)
+Alamat Pemohon Informasi
+Nomor Telepon Pemohon 
+Email Pemohon 
+Informasi Yang dibutuhkan
+Alasan Permintaan
+
+Nama Pengguna Informasi
+Nomor KTP (sesuai KTP)
+Alamat Pengguna Informasi
+Nomor Telepon Pengguna 
+Email Pengguna 
+Alasan Penggunaan Informasi
+Cara Memperoleh Informasi:
+Langsung
+Website
+Email
+Fax
+Via Pos
+Format Bahan Informasi
+Tecetak
+Terekam
+Cara Mengirim Bahan Informasi
+Langsung
+Via Pos
+Email
+Tanggal Pengajuan

@@ -1,0 +1,95 @@
+/* Form and inputs */
+input.valid {
+	background: url(<?php echo base_url();?>assets/form-validator/img/icon-ok.png) no-repeat right center #e3ffe5;
+	color: #858585;
+	border-color: #96b796 !important;
+} 
+
+input.error {
+	background: url(<?php echo base_url();?>assets/form-validator/img/icon-fail.png) no-repeat right center #ffebef;
+	color: #480000;
+}
+
+.user-role-akses{
+	padding-left:22px;
+}
+
+#table-instansi a, a.button-jabatan {
+	text-decoration: none;
+	color: black;
+}
+
+#table-instansi a:hover, a.button-jabatan:hover {
+	font-weight: bold;
+}
+
+#table-instansi a:active, a:visited, a.button-jabatan:active, a.button-jabatan:visited {
+	font-weight: bold;
+}
+
+/* */
+#table-inventaris a {
+	text-decoration: none;
+	color: black;
+}
+
+#table-inventaris a:hover {
+	font-weight: bold;
+}
+
+#table-inventaris a:active, a:visited {
+	font-weight: bold;
+}
+
+#table-inventaris a.pilih:hover {
+	text-decoration: underline;
+}
+/* */
+
+
+/* */
+#table-profil a {
+	text-decoration: none;
+	color: black;
+}
+
+#table-profil a:hover {
+	font-weight: bold;
+}
+
+#table-profil a:active, a:visited {
+	font-weight: bold;
+}
+
+#table-profil a.pilih:hover {
+	text-decoration: underline;
+}
+/* */
+
+
+/* */
+#table-search a {
+	text-decoration: none;
+	color: black;
+}
+
+#table-search a:hover {
+	font-weight: bold;
+}
+
+#table-search a:active, a:visited {
+	font-weight: bold;
+}
+
+#table-search a.pilih:hover {
+	text-decoration: underline;
+}
+/* */
+
+.review-add>.body:hover{
+	border:1px solid #ff0000;
+	padding:5px 8px 8px;
+	border-left-width:2px;
+	margin-right:1px
+}
+

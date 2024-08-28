@@ -1,0 +1,58 @@
+/*---------------- Breadcrumbs------------------------*/
+.breadcrumbs-v4 {
+    width: 100%;
+    padding: 25px 0;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../../img/breadcrumbs-img.jpg);
+    background-size: cover;
+}
+/*---------------- Breadcrumbs------------------------*/
+
+/*---------------- Caption for Owl Carousel------------------------*/
+.owl-caption{
+	position: absolute;
+	right: 10%;
+	top:25%;
+	bottom: 20px;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #fff;
+	text-align: right;
+}
+.header-caption{
+	font-size: 45px;
+	font-weight: 700;
+}
+.text-caption{
+	font-size: 20px;
+}
+/*---------------- Caption for Owl Carousel------------------------*/
+
+/*---------------- Full Slider------------------------*/
+.full-image {
+	height: 700px;
+}
+
+ @media (min-width: 451px) and (max-width: 740px) { 
+  .full-image {
+    height: 400px;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) { 
+  .full-image {
+    height: 450px;
+  }
+}
+/*---------------- Full Slider------------------------*/
+
+/*---------------- Back to top button------------------------*/
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+/*---------------- Back to top button------------------------*/
